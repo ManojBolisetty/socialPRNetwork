@@ -52,3 +52,22 @@
   font-size: 25px;
   margin:10px;
 }
+button
+{
+  background-color: #4043E5;
+  border-style: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  width:125px;
+}
+.advantages
+{
+  color: black;
+  font-size: 23px;
+
+}
+.top
+{
+   border-radius: 20%;
+}
