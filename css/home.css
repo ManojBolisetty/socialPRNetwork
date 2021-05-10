@@ -71,3 +71,20 @@ button
 {
    border-radius: 20%;
 }
+.post-text
+{
+  font-size: 23px;
+}
+.post-image
+{
+  height:300px;
+  width:450px;
+}
+.work-heading
+{
+  color:#1368CB;
+}
+.work-name
+{
+  color: #646464;
+}
