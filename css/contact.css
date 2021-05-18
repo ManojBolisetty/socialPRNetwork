@@ -53,6 +53,9 @@
 .footer-heading
 {
   color: #8F8F7E;
+  font-size: 23px;
+  font-weight: bold;
+  margin-top: 10px;
 }
 .footer-para
 {

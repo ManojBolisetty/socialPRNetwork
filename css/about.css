@@ -60,6 +60,9 @@
 .footer-heading
 {
   color: #8F8F7E;
+  font-size: 23px;
+  font-weight: bold;
+  margin-top: 10px;
 }
 .footer-para
 {
@@ -89,4 +92,11 @@
 .testimonial-company
 {
   color: #9AA0A8;
+}
+.about-image
+{
+    height:80vh;
+    width: 100vw;
+    background-image:url(../assets/about5.jpg);
+    background-size: cover;
 }
