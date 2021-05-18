@@ -36,11 +36,9 @@
 }
 .submit-press-container
 {
-  border-width: 2px;
+  
   color: #686060;
-  border-color: #707070;
-  border-radius: 5px;
-  border-style: solid;
+  background-color: #FEDFE8;
 }
 .submit-image
 {
