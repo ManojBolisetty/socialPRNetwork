@@ -34,9 +34,9 @@
 }
 .banner
 {
-  background-image:url('../assets/about.jpg');
+  background-image:url('../assets/about.jpeg');
   background-size: cover;
-  height: 100vh;
+  height: 60vh;
   width: 100%;
 }
 .about-text
@@ -95,7 +95,7 @@
 }
 .about-image
 {
-    height:80vh;
+    height:70vh;
     width: 100vw;
     background-image:url(../assets/about5.jpg);
     background-size: cover;

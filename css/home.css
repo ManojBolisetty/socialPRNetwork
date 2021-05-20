@@ -38,12 +38,16 @@
 .submit-press-container
 {
   color: #686060;
-  background-color: #FEDFE8;
+  background-color: #dff0fe;
   border-style: solid;
   border: 1px;
   
   border-color: #000000;
   border-radius: 10px;
+}
+.submit-section-heading
+{
+  font-weight: bold;
 }
 .submit-press-container:hover
 {
@@ -66,7 +70,9 @@ button
   border-radius: 10px;
   color: white;
   font-weight: bold;
-  width:125px;
+  width:150px;
+  padding-top:10px;
+  padding-bottom: 10px;
 }
 .advantages
 {
