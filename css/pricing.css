@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.social-pr-logo {
+    width: 150px;
+    height: 40px;
+}
+#navItem1 {
+    color: #2198DC;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-right: 25px;
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+    margin-right: 25px;
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+    margin-right: 25px;
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+    margin-right: 25px;
+}
+
+#navItem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+    margin-right: 25px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.pricing-heading
+{
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 40px;
+
+}
+.basic-plan
+{
+    background-color: #fff;
+    border-style: solid;
+    border-color: #fff;
+    box-shadow: 0px 0px 8px rgb(139, 138, 138);
+}
+.price
+{
+    color: rgb(69, 69, 92);
+}
+.price-span
+{
+    font-size: 25px;
+}
+p{
+    font-size: 18px;
+}
+li
+{
+    margin-bottom: 10px;
+}
+.button1
+{
+    color:#2198DC;
+    border-style:solid;
+    border-width: 2px;
+    border-color: #2198DC;
+    background-color: transparent;
+    text-align: center;
+    width:250px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 30px;
+    font-weight: bold;
+
+}
+.button1:hover
+{
+    background-color: #2198DC;
+    color: white;
+}
+.button2
+{
+    color:#2198DC;
+    border-style:solid;
+    border-width: 2px;
+    border-color: #2198DC;
+    background-color: transparent;
+    text-align: center;
+    width:250px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    background-color: #2198DC;
+    color: white;
+}
+.button2:hover{
+    box-shadow: 0px 0px 7px black;
+}
+.footer-heading
+{
+  color: #8F8F7E;
+  font-size: 23px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.footer-para
+{
+  color: #fff;
+}
+.footer-section
+{
+  background-color: #222222;
+}
+.social-media
+{
+  color: #ffffff;
+}
+.social-media:hover
+{
+  color: #ffffff;
+}
+.payment-image
+{
+  height: 50px;
+  width: 70px;
+}
