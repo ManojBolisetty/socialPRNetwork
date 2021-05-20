@@ -35,6 +35,12 @@
 .blog-image{
     width: 70%;
 }
+.bgimage
+{
+  height: 60vh;
+  background-image: url(../assets/post1.jpeg);
+  background-size: cover;
+}
 .heading
 {
     font-weight: bold;
