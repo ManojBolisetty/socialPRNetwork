@@ -33,7 +33,9 @@
     margin-right: 25px;
 }
 .blog-image{
-    width: 70%;
+  height: 60vh;
+  background-image: url(../assets/post3.jpeg);
+  background-size: cover;
 }
 .bgimage
 {
