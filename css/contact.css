@@ -44,7 +44,12 @@
     background-image:url(../assets/contact1.jpg);
     background-size: cover;
 }
-
+.contact-image-mobile
+{
+    height:60vh;
+    background-image:url(../assets/contact11.jpg);
+    background-size: cover;
+}
 .label-text
 {
     font-weight: bold;
